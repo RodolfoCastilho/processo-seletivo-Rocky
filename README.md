@@ -7,7 +7,7 @@ Esse projeto foi realizado com as seguintes tecnologias e pacotes:
 1. JavaScript
 2. fs
 
-## :rocket: How to Run: 
+## :rocket: Como rodar: 
 ```javascript
 git clone https://github.com/RodolfoCastilho/processo-seletivo-Rocky
 ```
