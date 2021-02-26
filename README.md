@@ -13,6 +13,7 @@ git clone https://github.com/RodolfoCastilho/processo-seletivo-Rocky
 ```
 
 ## Navegue até a pasta e use o comando:
+```
 $ node resolucao.js
 ```
 
